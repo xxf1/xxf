@@ -1,0 +1,281 @@
+{
+    "success": true,
+    "data": {
+        "identityCard": "330622196710140716",
+        "name": "郑华林",
+        "pagination": {
+            "pageIndex": 1,
+            "totalPage": 3,
+            "resultSize": 50,
+            "pageSize": 20
+        },
+        "pageData": [
+            {
+                "name": "郑华林",
+                "caseStatus": "执行中",
+                "identificationNO": "33062219671****0716",
+                "executionTarget": 1030000,
+                "id": "118782524@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1462896000000,
+                "content": "郑华林",
+                "caseNO": "(2016)浙0604执2321号",
+                "court": "上虞市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "title": "原告浙江上虞农村商业银行股份有限公司曹娥支行与被告陈小丰、郑华林金融借款合同纠纷一案",
+                "litigants": [],
+                "id": "19369915@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1445184000000,
+                "content": "...娥支行与被告陈小丰、郑华林金融借款合同纠纷一案",
+                "caseNO": "（2015）绍虞执民字第1520-2号",
+                "court": "绍兴市上虞区人民法院",
+                "dataType": "CPWS"
+            },
+            {
+                "title": "原告浙江上虞农村商业银行股份有限公司丰惠支行与被告上虞市华凯印刷厂、陈德强、上虞市青立电子电器有限公司、郑华林、陈秀芬金融借款合同纠纷一案",
+                "litigants": [],
+                "id": "17750449@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1441123200000,
+                "content": "...立电子电器有限公司、郑华林、陈秀芬金融借款合同...",
+                "caseNO": "（2015）绍虞执民字第777-2号",
+                "court": "绍兴市上虞区人民法院",
+                "dataType": "CPWS"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "已结案",
+                "identificationNO": "33062219671****0716",
+                "executionTarget": 622390,
+                "id": "112196139@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1438704000000,
+                "content": "郑华林",
+                "caseNO": "(2015)杭临执民字第02614号",
+                "court": "临安市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "已结案",
+                "identificationNO": "33062219671****0716",
+                "executionTarget": 987105.6,
+                "id": "112195960@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1437062400000,
+                "content": "郑华林",
+                "caseNO": "(2015)杭临执民字第02431号",
+                "court": "临安市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "已结案",
+                "identificationNO": "33062219671****0716",
+                "executionTarget": 334842.9,
+                "id": "112199093@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1437062400000,
+                "content": "郑华林",
+                "caseNO": "(2015)杭临执民字第02432号",
+                "court": "临安市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "执行中",
+                "identificationNO": "330622196710140716",
+                "executionTarget": 221822.39,
+                "id": "103383619@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1434297600000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第01520号",
+                "court": "上虞市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "gender": "男",
+                "implementationStatus": "全部未履行",
+                "evidenceCode": "(2014)绍虞商初字第01154号",
+                "identificationNO": "3306221967****0716",
+                "specificCircumstances": "其他有履行能力而拒不履行生效法律文书确定义务",
+                "obligations": "　支付款项221822.39元",
+                "age": 48,
+                "province": "浙江",
+                "postTime": 1445788800000,
+                "id": "3492413@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1434297600000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第01520号",
+                "court": "上虞市人民法院",
+                "dataType": "SXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "执行中",
+                "identificationNO": "330622196710140716",
+                "executionTarget": 2879401.5,
+                "id": "102034256@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1432051200000,
+                "content": "郑华林",
+                "caseNO": "(2015)杭江执民字第01532号",
+                "court": "杭州市江干区人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "执行中",
+                "identificationNO": "330622196710140716",
+                "executionTarget": 2877969.5,
+                "id": "102034295@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1432051200000,
+                "content": "郑华林",
+                "caseNO": "(2015)杭江执民字第01533号",
+                "court": "杭州市江干区人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "id": "AU1tKvNBdQ2sM7pFiXND@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1431878400000,
+                "content": "郑华林",
+                "caseNO": "（2015）绍虞执民字第700号",
+                "court": "绍兴市上虞区人民法院",
+                "dataType": "BGT"
+            },
+            {
+                "name": "郑华林",
+                "id": "AU1tKvNBdQ2sM7pFiXNI@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1431878400000,
+                "content": "郑华林",
+                "caseNO": "（2015）绍虞执民字第701号",
+                "court": "绍兴市上虞区人民法院",
+                "dataType": "BGT"
+            },
+            {
+                "name": "郑华林",
+                "id": "AU1tKvNBdQ2sM7pFiXNN@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1431878400000,
+                "content": "郑华林",
+                "caseNO": "（2015）绍虞执民字第699号",
+                "court": "绍兴市上虞区人民法院",
+                "dataType": "BGT"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "执行中",
+                "identificationNO": "330622196710140716",
+                "executionTarget": 700000,
+                "id": "101319059@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1429804800000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第01111号",
+                "court": "上虞市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "gender": "男",
+                "implementationStatus": "全部未履行",
+                "evidenceCode": "(2014)绍虞商初字第00585号",
+                "identificationNO": "3306221967****0716",
+                "specificCircumstances": "其他有履行能力而拒不履行生效法律文书确定义务",
+                "obligations": "　支付款项700000元",
+                "age": 48,
+                "province": "浙江",
+                "postTime": 1443456000000,
+                "id": "3303733@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1429804800000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第01111号",
+                "court": "上虞市人民法院",
+                "dataType": "SXGG"
+            },
+            {
+                "name": "郑华林",
+                "gender": "男",
+                "implementationStatus": "全部未履行",
+                "evidenceCode": "(2014)绍虞丰商初字第00206号",
+                "identificationNO": "3306221967****0716",
+                "specificCircumstances": "其他有履行能力而拒不履行生效法律文书确定义务",
+                "obligations": "　支付款项155000元",
+                "age": 48,
+                "province": "浙江",
+                "postTime": 1441468800000,
+                "id": "3084172@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1426435200000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第00828号",
+                "court": "上虞市人民法院",
+                "dataType": "SXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "执行中",
+                "identificationNO": "330622196710140716",
+                "executionTarget": 155000,
+                "id": "98605975@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1426435200000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第00828号",
+                "court": "上虞市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "gender": "男",
+                "implementationStatus": "全部未履行",
+                "evidenceCode": "(2014)绍虞丰商初字第00207号",
+                "identificationNO": "3306221967****0716",
+                "specificCircumstances": "其他有履行能力而拒不履行生效法律文书确定义务",
+                "obligations": "　支付款项700000元",
+                "age": 48,
+                "province": "浙江",
+                "postTime": 1442332800000,
+                "id": "3220612@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1425484800000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第00777号",
+                "court": "上虞市人民法院",
+                "dataType": "SXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "已结案",
+                "identificationNO": "33062219671****0716",
+                "executionTarget": 812020.4,
+                "id": "106912132@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1425484800000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第00776号",
+                "court": "上虞市人民法院",
+                "dataType": "ZXGG"
+            },
+            {
+                "name": "郑华林",
+                "caseStatus": "执行中",
+                "identificationNO": "330622196710140716",
+                "executionTarget": 1101808,
+                "id": "98063721@AVUFqggpxmtoQNN9LlLR",
+                "recordTime": 1423929600000,
+                "content": "郑华林",
+                "caseNO": "(2015)绍虞执民字第00699号",
+                "court": "上虞市人民法院",
+                "dataType": "ZXGG"
+            }
+        ],
+        "statistic": {
+            "ktggResultSize": 0,
+            "cpwsResultSize": 4,
+            "zxggResultSize": 23,
+            "sxggResultSize": 11,
+            "fyggResultSize": 0,
+            "wdhmdResultSize": 2,
+            "ajlcResultSize": 0,
+            "bgtResultSize": 10
+        },
+        "checkStatus": "EXIST"
+    }
+}
+
+
+
+
