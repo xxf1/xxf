@@ -1,0 +1,4 @@
+git remote add origin https://github.com/xxf1/xxf.git
+
+
+git push -u origin master
