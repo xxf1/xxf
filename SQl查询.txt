@@ -1,0 +1,28 @@
+select * from api3rds where channel like '%YIN_LIAN';
+
+
+SELECT channel,category,mapping,price NAME from api3rds 
+WHERE price in(SELECT price FROM api3rds where price ='黑名单')
+ 
+
+select * from organizations where company_name like '百合网';
+
+
+SELECT
+	*
+FROM
+	organizations
+WHERE
+	balance > 50000
+
+
+Select id,balance 
+FROM organizations  ;
+
+
+SELECT
+	*
+FROM
+	records
+WHERE
+ account='hjkj'and channel='GUO_MIN_REN_ZHENG';
